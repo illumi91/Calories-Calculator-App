@@ -1,0 +1,7 @@
+Flask
+PyYAML
+WTForms
+pytest
+pytest-mock
+python-dateutil
+python-dotenv
